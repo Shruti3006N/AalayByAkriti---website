@@ -3,13 +3,9 @@
 <p></p>
 
 <a href="www.aalayinteriors.com">
-  <p>For more..<a></a></p>
-  <img align="left" alt="Shruti's Linkdein" width="16px" src="https://www.linkedin.com/in/shruti-namdeo-5b3b26200/" />
+ 
+  <img align="left" alt="Shruti's Linkdein" width="22px" src="https://www.linkedin.com/in/shruti-namdeo-5b3b26200/" />
 </a>
-
-
-
-
 
 ![WhatsApp Image 2021-01-08 at 23 58 50](https://user-images.githubusercontent.com/75172497/104104772-20afcf00-52d0-11eb-81ef-0b6dcb20cbfc.jpeg)
 
