@@ -2,8 +2,7 @@
 # AalayByAkriti---(Website)
 
 www.aalayinteriors.com
------------------------
------------------------
+<h5>I have made an e- commerce website in WordPress for an interior designer. Coding like CSS, PHP, HTML is also used in some part in the making of website.</h5>
 
 
 ![WhatsApp Image 2021-01-08 at 23 58 50](https://user-images.githubusercontent.com/75172497/104104772-20afcf00-52d0-11eb-81ef-0b6dcb20cbfc.jpeg)
